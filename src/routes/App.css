@@ -1,0 +1,33 @@
+.Container{
+    display: flex;
+}
+
+.section{
+    width: 100%;
+}
+
+.sidebar{
+    min-height: 200px;
+}
+
+.post-card{
+   margin: 20px 50px 50px 20px; 
+}
+
+.alert{
+    margin: 20px 0px 0px 0px ;
+}
+
+.createPost{
+    width: 60%;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+.welcome-msg{
+    margin: 100px 0px ;
+}
+
+.loader{
+  margin:20% 0px;
+}
